@@ -44,4 +44,4 @@ jobs:
         with:
           context:
           push: true
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/lab-5:latest
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/lab_5:latest
